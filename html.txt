@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miel DAVID</title>
+    <link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+    <h1>MIEL DAVID</h1>
+    <nav>
+        <ul>
+            <li><a href="">Comprar</a></li>
+            <li><a href="">Equipo</a></li>
+            <li><a href="">Quienes Somos</a></li>
+            <li><a href="">Contacto</a></li>
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
+                <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.102 4l1.313 7h8.17l1.313-7H3.102zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+            </svg>
+        </ul>
+    </nav>
+    <div class="contenido">
+        <div class="articulos">
+            <div class="secciones">
+                <div>
+                    <h2 id="subt">PRODUCTOS DISPONIBLES</h2>
+                    <p id="descripcion">Somos apicultores Empresa apícola con más de 15 años de experiencia en el rubro, nos hemos dedicado a dar un valor agregado a nuestra producción, extraemos lo mejor de la colmena para satisfacer las necesidades de nuestros consumidores con las exigencias en la alimentación actual.</p>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="mielA"><img src="IMG/Tipo1.png" >
+                <p>MIEL AZAHAR 10000$</p>
+                <button type="button">Agregar al carro</button>
+                </div>
+                <div class="mielE"><img src="IMG/Tipo2.png" >
+                <p>MIEL EUCALIPTO 10000$</p>
+                <button type="button">Agregar al carro</button>
+                </div>
+                <div class="mielR"><img src="IMG/Tipo3.png" >
+                <p>MIEL ROMERO 10000$</p>
+                <button type="button">Agregar al carro</button>
+                </div>
+                <div class="mielB"><img src="IMG/Tipo4.png" >
+                <p>MIEL BREZO 10000$</p>
+                <button type="button" >Agregar al carro</button>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+
+    
+</body>
+</html>
